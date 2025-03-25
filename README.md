@@ -1,6 +1,6 @@
 #  Dépôt GitHub avec Clé SSH personnalisée
 
-Ce dépôt a été cloné et géré à l'aide d'une **clé SSH personnalisée** pour une meilleure sécurité et une gestion multi-comptes GitHub facilitée.
+Pour cloner et gérer un dépo à l'aide d'une **clé SSH personnalisée** pour une meilleure sécurité et une gestion multi-comptes GitHub.
 
 ##  Configuration SSH utilisée
 
