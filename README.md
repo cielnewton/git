@@ -44,7 +44,7 @@ git clone git@github-cielnewton:cielnewton/vide.git
 git status       # Voir l'état du dépôt
 git add .        # Ajouter tous les fichiers modifiés
 git commit -m "message"   # Créer un commit
-git push         # Envoyer les modifications vers GitHub
+git push -u origin main        # Envoyer les modifications vers GitHub
 ```
 
 ##  Bonnes pratiques
